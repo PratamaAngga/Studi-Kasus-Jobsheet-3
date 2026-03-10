@@ -1,2 +1,1 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+In this multiplication table project, we display the multiplication table for multiplication by 7.
